@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20252" started-at="2020-03-29T10:56:04 BST" finished-at="2020-03-29T10:56:24 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20252" started-at="2020-03-29T10:56:04 BST" finished-at="2020-03-29T10:56:24 BST">
+      <class name="com.test.GooglePage_testNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GooglePage_testNG@6f1fba17]" name="setUp" is-config="true" duration-ms="11844" started-at="2020-03-29T10:56:04 BST" finished-at="2020-03-29T10:56:16 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Method1()[pri:0, instance:com.test.GooglePage_testNG@6f1fba17]" name="Method1" duration-ms="4023" started-at="2020-03-29T10:56:16 BST" finished-at="2020-03-29T10:56:20 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.test.GooglePage_testNG@6f1fba17]" name="cleanUp" is-config="true" duration-ms="4327" started-at="2020-03-29T10:56:20 BST" finished-at="2020-03-29T10:56:24 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.test.GooglePage_testNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
